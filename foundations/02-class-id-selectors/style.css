@@ -1,6 +1,6 @@
 /* styles.css */
 
-p {
+basic.p {
   background-color: #FADADD;
   font-family: Verdana, "DejaVu Sans" sans-sherif;
 }
@@ -10,6 +10,12 @@ p {
   color: #f0f8ff;
 }
 
+.fourth {
+  background-color: #90ee90;
+  font-weight: 700;
+  font-size: 24px;
+}
+
 .third {
-  
+  fon-size: 24px;
 }
