@@ -1,4 +1,15 @@
+/* styles.css */
+
 p {
   background-color: #FADADD;
   font-family: Verdana, "DejaVu Sans" sans-sherif;
+}
+
+.second {
+  font-size: 36px;
+  color: #f0f8ff;
+}
+
+.third {
+  
 }
